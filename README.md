@@ -8,7 +8,7 @@ Este es un ejercicio que realicé para practicar HTML, CSS y JavaScript. La calc
 
 ##Imagen del Ejercicio
 
-![Calculadora](./imagenes/Calculadora.png)
+![Calculadora](imagenes/Calculadora.png)
 
 ## Enlace a la Demo
 

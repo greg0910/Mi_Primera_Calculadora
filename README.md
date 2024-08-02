@@ -8,10 +8,10 @@ Este es un ejercicio que realicé para practicar HTML, CSS y JavaScript. La calc
 
 ##Imagen del Ejercicio
 
-![Minimal Blog Card ]()
+![Calculadora](./imagenes/Calculadora.png)
 
 ## Enlace a la Demo
 
-Puedes ver la tarjeta de blog en vivo en el siguiente enlace:
+Puedes ver la calculadora en vivo en el siguiente enlace:
 
-[Ver la Calculadora]()
+[Ver la Calculadora]( https://greg0910.github.io/Mi_Primera_Calculadora/)

@@ -6,7 +6,7 @@ Este proyecto consiste en una calculadora simple creada utilizando HTML, CSS y J
 
 Este es un ejercicio que realicé para practicar HTML, CSS y JavaScript. La calculadora permite realizar operaciones aritméticas básicas como suma, resta, multiplicación y división.
 
-##Imagen del Ejercicio
+## Imagen del Ejercicio
 
 ![Calculadora](imagenes/Calculadora.png)
 
